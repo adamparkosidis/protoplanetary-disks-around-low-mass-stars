@@ -14,3 +14,5 @@ Phantom is a fast, parallel, modular and low-memory smoothed particle hydrodynam
 ## Samples
 
 ![2D-image-disk_initially](/figures/Graphs_2D/r_1s_0.1d_0.3q_2D.png)
+![1D-image-disk_initially](/figures/Graphs_1D/r_1s_0.1d_0.3q_2D.png)
+![effect-of-initial-temperature](/figures/Graphs_1D/figure2.png)
