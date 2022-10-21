@@ -1,0 +1,12 @@
+Compilation details:
+   Date compiled: Τρι 01 Ιουν 2021 03:13:27 μμ EEST
+   Pre-processor flags used: -DGRAVITY -DISOTHERMAL -DDISC_VISCOSITY -DIND_TIMESTEPS -DHDF5
+ 
+Version details:
+   Date this version was committed to the repository:    Thu May 27 21:07:05 2021 +1000
+   Commit tag:     ok-20210304-81-g434f5b37
+   Full commit ID: 434f5b37e1f7789c9065e419756ed6b552ae797a 
+   Locally modified files:
+build/Makefile
+src/main/eos.F90
+src/main/utils_dumpfiles_hdf5.f90
