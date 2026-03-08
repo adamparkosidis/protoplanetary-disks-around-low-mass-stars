@@ -7,7 +7,7 @@ Planets form in young protoplanetary discs that are made of gas and dust. We sim
 
 ## PHANTOM
 
-[PHANTOM](https://phantomsph.bitbucket.io) was used to simulate locally isothermal gaseous protoplanetary discs evolving around low mass stars.
+[PHANTOM]([https://phantomsph.bitbucket.io](https://phantomsph.github.io)) was used to simulate locally isothermal gaseous protoplanetary discs evolving around low mass stars.
 
 Phantom is a fast, parallel, modular and low-memory smoothed particle hydrodynamics (SPH) and magnetohydrodynamics code developed over the last decade for astrophysical applications in three dimensions. The code has been developed with a focus on stellar, galactic, planetary and high energy astrophysics and has already been used widely for studies of accretion discs and turbulence, from the birth of planets to how black holes accrete.
 
